@@ -1,1 +1,1 @@
-This is the official [Voxta AI](https://www.voxta.ai) GitHub repo.
+This is the official [voxta.ai](https://www.voxta.ai) GitHub account.
